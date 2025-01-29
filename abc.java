@@ -3,7 +3,7 @@ import java.util.List;
 
 
 
-public class al {
+public class abc {
     
     // Method to add an edge between two vertices
     public static void addEdge(List<List<Integer>> adj, int i, int j) {
